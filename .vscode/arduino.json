@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Water_Sensor_with_LED\\Water_Sensor_with_LED.ino"
+}
